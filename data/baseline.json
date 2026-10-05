@@ -1,0 +1,65 @@
+{
+    "created_at": "2026-09-27T15:58:53.630786",
+    "entries": [
+        {
+            "name": "OneDrive",
+            "path": "\"C:\\Users\\DELL\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background",
+            "root": "HKEY_CURRENT_USER",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "Teams",
+            "path": "\"C:\\Users\\DELL\\AppData\\Local\\Microsoft\\WindowsApps\\MSTeams_8wekyb3d8bbwe\\ms-teams.exe\" msteams:system-initiated",
+            "root": "HKEY_CURRENT_USER",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "electron.app.Cluely",
+            "path": "\"C:\\Users\\DELL\\AppData\\Local\\Programs\\cluely-v2\\Cluely.exe\"",
+            "root": "HKEY_CURRENT_USER",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "Microsoft.Lists",
+            "path": "C:\\Users\\DELL\\AppData\\Local\\Microsoft\\OneDrive\\26.168.0830.0006\\OneDrive.Sync.Service.exe",
+            "root": "HKEY_CURRENT_USER",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "Grammarly",
+            "path": "\"C:\\Users\\DELL\\AppData\\Local\\Grammarly\\DesktopIntegrations\\Grammarly.Desktop.exe\" --autostart",
+            "root": "HKEY_CURRENT_USER",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "MicrosoftEdgeAutoLaunch_6B770857D9B81538FA9524CBB2D560C5",
+            "path": "\"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\" --no-startup-window --win-session-start",
+            "root": "HKEY_CURRENT_USER",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "SecurityHealth",
+            "path": "%windir%\\system32\\SecurityHealthSystray.exe",
+            "root": "HKEY_LOCAL_MACHINE",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "RtHDVCpl",
+            "path": "\"C:\\Program Files\\Realtek\\Audio\\HDA\\RtkNGUI64.exe\" -s",
+            "root": "HKEY_LOCAL_MACHINE",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "RtHDVBg_PushButton",
+            "path": "\"C:\\Program Files\\Realtek\\Audio\\HDA\\RAVBg64.exe\" /IM",
+            "root": "HKEY_LOCAL_MACHINE",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        },
+        {
+            "name": "WavesSvc",
+            "path": "\"C:\\Program Files\\Waves\\MaxxAudio\\WavesSvc64.exe\" -Jack",
+            "root": "HKEY_LOCAL_MACHINE",
+            "registry_path": "Software\\Microsoft\\Windows\\CurrentVersion\\Run"
+        }
+    ]
+}
